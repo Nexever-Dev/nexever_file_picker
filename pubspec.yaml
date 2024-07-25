@@ -1,6 +1,6 @@
 name: nexever_file_picker
 description: A Flutter package for picking files, images, and videos with options for cropping and compression.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Nexever-Dev/nexever_file_picker/blob/main/example/lib/main.dart
 repository: https://github.com/Nexever-Dev/nexever_file_picker.git
 
